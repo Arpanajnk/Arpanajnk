@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpanajnk
 - 👀 I’m an Immersive Technologist
-- 🌱 I’m currently working as a Technical Artist
+- 🌱 Currently working as a Technical Artist at DreamLab- MediaCity Immersive Technologies Innovation Hub
 - 💞️ I’m looking to collaborate on using immersive technologies for improving lives
 - 📫 You can email me at a.nandakumar2@salford.ac.uk
 - 😄 Pronouns: She/Her
